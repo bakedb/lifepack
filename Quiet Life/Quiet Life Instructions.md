@@ -11,3 +11,4 @@
 2. Put a command block down, set it to a repeating command block, set it to not require redstone, and input the command ```function quiet_life:tick```(the / is not required in command blocks). 
 3. To set a world border, use ```/worldborder set <SizeInBlocks>```.
 4. The colors of people's names that reflect their life count may not work right away. If you have already completed steps 1 and 2 and people's names are still white, run ```/function quiet_life:reload_colors```.
+5. Force load the chunk that the command block is in. Go right above it and type the command ```/forceload ~ ~```.
