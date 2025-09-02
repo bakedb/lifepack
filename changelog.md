@@ -2,16 +2,17 @@
 
 ## Current versions:
 
->MegaPack 1.0
+>MegaPack 1.1
 
 >Quiet Life 1.0.0
+>Vital Verdict 1.0.0
 
 ## MegaPack Changes
 
-### MegaPack 1.0
+### MegaPack 1.1
 
-* Added Quiet Life
+* Added Vital Verdict
 
-## Quiet Life Changes
+## Vital Verdict Changes
 
 * Added to MegaPack
